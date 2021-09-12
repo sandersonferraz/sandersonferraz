@@ -1,4 +1,4 @@
-## Hi guis! My name is Sanderson ferraz.
+## Hi guis! I'm Sanderson ferraz.
 
 <div>
   <a href="https://github.com/sandersonferraz">
